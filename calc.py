@@ -16,4 +16,4 @@ elif opr == "/":
 else:
     total = "Please Enter a Valid Operation"
 
-print (total)   
+print (total)
